@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821026531468",
+    "project_id": "edukasinfirebase",
+    "storage_bucket": "edukasinfirebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821026531468:android:35c277a57f23dd6c4273a9",
+        "android_client_info": {
+          "package_name": "com.example.edukasin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHWxz7oMooyzCVMv9p09YJ2gYAJ4JJZGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
